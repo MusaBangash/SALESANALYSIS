@@ -1,19 +1,13 @@
 
 ## Getting Started
 
-### Prerequisites
-
-Make sure you have the following installed:
-- Python 3.x
-- Jupyter Notebook
-- Git
 
 ### Installation
 
    1. Clone the repository:
       
-    git clone https://github.com/MusaBangash/SALESANALYSIS.git
-    cd sales_analysis
+    #### git clone https://github.com/MusaBangash/SALESANALYSIS.git
+    #### cd sales_analysis
 
    2.Create a virtual environment and activate it:
 

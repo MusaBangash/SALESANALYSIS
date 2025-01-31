@@ -18,10 +18,12 @@ Make sure you have the following installed:
    2.Create a virtual environment and activate it:
 
  python -m venv venv
-   
-.\venv\Scripts\activate  # On Windows
-   
- source venv/bin/activate  # On macOS/Linux
+
+# On Windows
+.\venv\Scripts\activate 
+
+# On macOS/Linux   
+ source venv/bin/activate  
 
 
    3.Install the required packages:

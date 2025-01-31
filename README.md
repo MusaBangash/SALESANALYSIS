@@ -25,20 +25,5 @@ Make sure you have the following installed:
    3.Install the required packages:
     pip install -r requirements.txt
 
-    Usage
-  Start Jupyter Notebook:
-
-Open the sales_analysis.ipynb notebook and run the cells to see the analysis.
-
-Analysis
-The analysis includes the following visualizations:
-
-Total Sales Over Time
-Sales by Category
-Sales by Region
-Sales Distribution
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-License
-This project is licensed under the MIT License.
+ Usage
+    Start Jupyter Notebook:

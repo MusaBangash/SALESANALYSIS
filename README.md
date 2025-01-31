@@ -4,12 +4,11 @@
 
 ### Installation
 
-   1. Clone the repository:
-      
-    #### git clone https://github.com/MusaBangash/SALESANALYSIS.git
-    #### cd sales_analysis
+   1. Clone the repository: git clone https://github.com/MusaBangash/SALESANALYSIS.git
+   2. cd SALESANALYSIS
 
-   2.Create a virtual environment and activate it:
+
+### Create a virtual environment and activate it:
 
  python -m venv venv
 
@@ -18,10 +17,9 @@
 
 # On macOS/Linux   
  source venv/bin/activate  
-
-
-   3.Install the required packages:
-    pip install -r requirements.txt
+ 
+ ### Install the required packages:
+ pip install -r requirements.txt
 
  Usage
     Start Jupyter Notebook:
